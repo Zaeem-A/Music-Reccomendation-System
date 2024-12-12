@@ -1,5 +1,0 @@
-name: test1
-description: this is a test
-runs:
-  using: node16
-  main: index.js
